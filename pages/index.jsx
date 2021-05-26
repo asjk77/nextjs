@@ -6,7 +6,7 @@ import SiteGuard from '../components/SiteGuard';
 export default function Index(){
   return(
     <Layout>
-    <SiteGuard/>
+      <SiteGuard/>
     </Layout>
   );
 }

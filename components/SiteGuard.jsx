@@ -57,7 +57,7 @@ export default function SiteGuard(){
                 Javascript로 진로를 바꾸면서 새로운 기술들을 배우며 시간을 지내고 있었다. 그리고 이제 진짜 취업할때가 되었다..
             </AnimationDropLeft>
             <AnimationDropRight className={Styles.subTitle}> 단점 </AnimationDropRight>
-            <AnimationDropRight className={Styles.text}> 실제로 서비스를 개발하여 운영해본 적이 없다. 실제로 현업에서 일하시는 분들의 Ti점을 얻고싶다. </AnimationDropRight>
+            <AnimationDropRight className={Styles.text}> 실제로 서비스를 개발하여 운영해본 적이 없다. 실제로 현업에서 일하시는 분들의 Tip을 얻고싶다. </AnimationDropRight>
 
             
             <AnimationDropLeft className={Styles.subTitle}>그럼에도 불구하고 개발자 황산호를 뽑아야 하는 이유 </AnimationDropLeft>

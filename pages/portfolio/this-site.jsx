@@ -56,11 +56,6 @@ export default () => (
             현제 정의된 style (className)을 컴포넌트에 지정해준다.
             </AnimationDropLeft>
 
-            <AnimationDropLeft className={Styles.stack}>
-            `AnimationElement`의 내용은 간단하다.
-            <div><Image src="/this_site/5.png" width={1492} height={335} /></div>
-            현제 정의된 style (className)을 컴포넌트에 지정해 준다.
-            </AnimationDropLeft>
             <AnimationDropLeft className={Styles.title}>...</AnimationDropLeft>
             <AnimationDropLeft className={Styles.stack}>
                 앞서 설명된 부분들은 전체 코드가 아니여서 난해 할수 있다. 이해를 돕기 위해서 
