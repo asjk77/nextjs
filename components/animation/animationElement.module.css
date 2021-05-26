@@ -1,0 +1,31 @@
+/* animationElement Styles */
+
+.Activate {
+}
+
+.unActivate {
+}
+
+.AnimationDropLeft_off {
+    position: relative;
+    left: 300px;
+    opacity: 0;
+}
+.AnimationDropLeft_on {
+    opacity: 1;
+    position: relative;
+    left: 0px;
+    transition: all 3s;
+}
+/* 오른쪽으로 드랍합니다.*/
+.AnimationDropRight_off {
+    position: relative;
+    right: 300px;
+    opacity: 0;
+}
+.AnimationDropRight_on {
+    opacity: 1;
+    position: relative;
+    right: 0px;
+    transition: all 3s;
+}

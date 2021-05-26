@@ -1,0 +1,13 @@
+.container {
+
+}
+
+.scroll_animation {
+    background-color: teal;
+
+    transition: all 2s;
+}
+
+.active {
+    background-color: blue;
+}
