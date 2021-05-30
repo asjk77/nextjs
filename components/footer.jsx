@@ -12,7 +12,7 @@ export default function Footer() {
             <p className={Styles.copyright}>Copyright 2021 Hwang Sanho. All right reserved.</p>
             <div className={Styles.subNav}>
                 <li><Link href='/portfolio/this-site'><a>이 사이트에 대하여</a></Link></li>
-                <li><Link href='/detail'><a>정보</a></Link></li>
+                <li><Link href='/details'><a>정보</a></Link></li>
             </div>
         </footer>
     );
